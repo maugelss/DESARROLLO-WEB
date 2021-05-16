@@ -209,7 +209,7 @@ footer a.text-light:hover {
   
 }
 /*botones*/
-.btn-check:active+.btn-outline-primary, .btn-check:checked+.btn-outline-primary, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primar:{
+.btn-check:active+.btn-outline-primary, .btn-check:checked+.btn-outline-primary, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primar {
   color: #f6f9fe;
   background-color: #028372;
   border-color: #028372;
@@ -236,7 +236,7 @@ a:hover {
 /*sombras de las cajas de secciones*/
 .shadow-sm{-webkit-box-shadow:0 .125rem .25rem rgba(141, 10, 153, 0.075)!important;box-shadow:0 .125rem .25rem rgba(0,0,0,.075)!important}
 .shadow-lg{-webkit-box-shadow:0 1rem 3rem rgba(0,0,0,.175)!important;box-shadow:0 1rem 3rem rgba(0,0,0,.175)!important}
-}
+
 
 .border-color
 {
