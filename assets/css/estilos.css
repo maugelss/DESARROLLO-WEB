@@ -15,7 +15,7 @@
 html {font-family: 'Saira', sans-serif;}
 /* Typography */
 p, a {font-weight: 400;}
-.h2 {font-size: 40px;}
+.h2 {font-size: 40px; color: #015348}
 .h3 {font-size: 28px;}
 .light-300 {
   font-family: 'Saira', sans-serif !important;
